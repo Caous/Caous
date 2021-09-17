@@ -33,6 +33,7 @@ Acredito que as pessoas são movidas pelo sentimento e suas palavras, aquilo que
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)
 ![VisualStudio](https://img.shields.io/badge/Visual_Studio_2019-000000?style=for-the-badge&logo=visual%20studio&logoColor=purple)
 ![Sublime](https://img.shields.io/badge/sublime_text-000000.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
+![NetBeans](https://img.shields.io/badge/Apache%20NetBeans%20IDE-000000.svg?&style=for-the-badge&logo=Apache%20NetBeans%20IDE&logoColor=important)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=important)
 
 
@@ -41,7 +42,7 @@ Acredito que as pessoas são movidas pelo sentimento e suas palavras, aquilo que
 ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
 ![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=purple)
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
-![Java](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=14354C)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=14354C)
 
 
 
