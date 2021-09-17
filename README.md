@@ -57,7 +57,7 @@ Acredito que as pessoas são movidas pelo sentimento e suas palavras, aquilo que
 
 
 ### <h5> [Conhecimentos - Banco de Dados 🛢]</h5>
-![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
+![SQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=MySQL)
 ![SqlServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-000000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MongoDB)
 ![MariaBD](https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logo=mariadb&logoColor=white)
