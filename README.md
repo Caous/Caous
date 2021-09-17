@@ -51,7 +51,7 @@ Acredito que as pessoas são movidas pelo sentimento e suas palavras, aquilo que
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=for-the-badge&logo=angular&logoColor=red)
-![NodeJs](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node-dot-js&logoColor=green)
+![NodeJs](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=Node.js&logoColor=green)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=TypeScript)
 
 
