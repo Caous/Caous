@@ -26,7 +26,7 @@ Acredito que as pessoas são movidas pelo sentimento e suas palavras, aquilo que
 - [2017-2018] Estagiário Infraestrutura - Intelligence for Us Desenvolvimento de Projetos e Treinamentos LTDA ME </br></br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caous&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/caous/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caous&layout=compact&text_color=daf7dc&bg_color=151515)
 
 
 ### <h5> [Conhecimentos - IDE]</h5>
