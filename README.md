@@ -21,7 +21,8 @@ Acredito que as pessoas são movidas pelo sentimento e suas palavras, aquilo que
 
 
 ### [Carreira] </br>
-- [Atual] Desenvolvedor Pleno - Banco Itaú
+- [Atual] Desenvolvedor Senior - Banco BMG
+- [2020 - 2022] Desenvolvedor Pleno - Banco Itaú
 - [2018-2019] Desenvolvedor Junior - Action Cargo
 - [2017-2018] Estagiário Infraestrutura - Intelligence for Us Desenvolvimento de Projetos e Treinamentos LTDA ME </br></br>
 
