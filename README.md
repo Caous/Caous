@@ -1,84 +1,244 @@
-### <h2>Bem vindo
-  <h5>Meu nome é Gustavo, espero que encontre oque procura <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p></h5>
-  
-  </br>
-  
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Gustavo%20Nascimento&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Tech%20Lead%20%7C%20Founder%20@%20InnovaSfera&descAlignY=55&descSize=18" width="100%"/>
 
-<img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
-Acredito que as pessoas são movidas pelo sentimento e suas palavras, aquilo que deseja, peça intensamente e chegara até você ⚡
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Engenheiro+de+Software+S%C3%AAnior;Especialista+em+.NET+%7C+C%23+%7C+Cloud;Arquitetura+de+Microsservi%C3%A7os;L%C3%ADder+T%C3%A9cnico+%7C+Setor+Financeiro;Empreendedor+%7C+Founder+InnovaSfera;IA+aplicada+ao+desenvolvimento)](https://git.io/typing-svg)
 
-</br></br>
+<a href="https://www.linkedin.com/in/gusta-nascimento/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:caous.g@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/gusta.nascimento/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=Caous&style=for-the-badge&color=1f6feb" alt="Profile views"/>
 
-### [Insight] </br>
-- 🔭 Ser um bom programador e poder colaborar/servir para resolver problemas
-- 🌱 Sempre aprender **Tolo é aquele que acha que sabe de tudo.**
-- 👯 Empreender é uma base fundamental, empreender em mim mesmo onde eu sou minha prória marca
-- 🤔 Meritocracia é com base naquilo que faz para agregar e recebe sua recompensa equivalente sem pedir nada a mais!
-- 💬 Vejo que o futuro já se encontra em nossa realidade **IA - IOT - Micro Service.**
-- ⚡ O que me trouxe até aqui não irá me levar ao próximo nível seja grato mas não tem problema não estar satisfeito!
+</div>
 
+---
 
-### [Carreira] </br>
-- [Atual] Desenvolvedor Senior - Banco BMG
-- [2020 - 2022] Desenvolvedor Pleno - Banco Itaú
-- [2018-2019] Desenvolvedor Junior - Action Cargo
-- [2017-2018] Estagiário Infraestrutura - Intelligence for Us Desenvolvimento de Projetos e Treinamentos LTDA ME </br></br>
+## 🧑‍🚀 Sobre mim
 
+```csharp
+var gustavo = new SoftwareEngineer
+{
+    Nome        = "Gustavo Nascimento",
+    Papel       = ["Senior Software Engineer", "Tech Lead", "Founder"],
+    Foco        = ".NET | Microsserviços | Cloud | Sistemas Distribuídos",
+    Setor       = "Financeiro (Itaú, BMG, XP Inc.) + Empreendedorismo",
+    Empresa     = "InnovaSfera",
+    Princípio   = "Tecnologia existe para resolver problemas reais",
+    Aprendendo  = "Sempre. Tolo é aquele que acha que sabe de tudo."
+};
+```
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caous&layout=compact&text_color=daf7dc&bg_color=151515)
+Minha trajetória começou em **infraestrutura, redes e segurança**, evoluiu para o **desenvolvimento de sistemas corporativos** e chegou a **projetos de alta criticidade no setor financeiro** — processamento bancário, crédito consignado, sistemas fiscais e regulatórios.
 
+Hoje atuo como **engenheiro sênior e referência técnica**, com foco em arquitetura de software, modernização de aplicações, mensageria, observabilidade e liderança de times. Também sou **fundador da InnovaSfera**, onde entrego soluções ponta a ponta — do levantamento de requisitos à produção.
 
-### <h5> [Conhecimentos - IDE]</h5>
-![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)
-![VisualStudio](https://img.shields.io/badge/Visual_Studio_2019-000000?style=for-the-badge&logo=visual%20studio&logoColor=purple)
-![Sublime](https://img.shields.io/badge/sublime_text-000000.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
-![NetBeans](https://img.shields.io/badge/Apache%20NetBeans%20IDE-000000.svg?&style=for-the-badge&logo=Apache%20NetBeans%20IDE&logoColor=important)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=important)
+> 💡 *"O que trouxe uma pessoa até o nível atual pode não ser suficiente para levá-la ao próximo."*
 
+---
 
-### <h5> [Conhecimentos - Linguagem Programação]</h5>
-![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
-![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=purple)
-![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=14354C)
+## 💼 Experiência & Resultados
 
+<details>
+<summary><b>🏦 XP Inc. — Senior Software Engineer</b> <i>(sistemas fiscais e Imposto de Renda)</i></summary>
+<br>
 
+Modernização da esteira de processamento fiscal das marcas do grupo XP:
 
+- Criação de **microsserviço de validação de dados fiscais** cruzando dados da Receita Federal com bases internas — inconsistências detectadas **antes** de chegarem ao cliente;
+- 📉 Resultado: chamados operacionais reduzidos de **~789 para ~145**;
+- Alto volume de dados, processamento assíncrono com **Kafka**, **Redis**, idempotência, DLQ, retry, circuit breaker;
+- Escalabilidade com **Kubernetes + HPA**, ETL com **Python**, **AWS S3/SQS**;
+- Observabilidade completa: logs estruturados, métricas, traces distribuídos.
 
-### <h5> [Conhecimentos - Web 🌐]</h5>
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
-![Angular](https://img.shields.io/badge/-Angular-000000?style=for-the-badge&logo=angular&logoColor=red)
-![NodeJs](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=Node.js&logoColor=green)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=TypeScript)
+</details>
 
+<details>
+<summary><b>🏦 Banco BMG — Desenvolvedor Sênior / Referência Técnica</b></summary>
+<br>
 
-### <h5> [Conhecimentos - Banco de Dados 🛢]</h5>
-![SQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=MySQL)
-![SqlServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-000000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MongoDB)
-![MariaBD](https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logo=mariadb&logoColor=white)
+- Participação no **Desenrola Brasil** e na **modernização da plataforma de crédito consignado**;
+- Estratégia de **feature flags + fallback entre fornecedores** — troca de fornecedor sem novo deploy, mais resiliência e menos risco operacional;
+- Decisões arquiteturais, code review, mentoria de desenvolvedores e ponte entre técnica e negócio.
 
+</details>
 
-### <h5> [Versionamento de projeto] </h5>
-![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
-![AWS](http://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=Amazon-aws&logoColor=cyan)
-![RTC](http://img.shields.io/badge/-IBM-000000?style=for-the-badge&logo=IBM&logoColor=cyan)
-![Azure](https://img.shields.io/badge/microsoft%20azure-000000?style=for-the-badge&logo=microsoft-azure&logoColor=blue)
-</br></br></br></br>
+<details>
+<summary><b>🏦 Itaú (via Indra) — Desenvolvedor</b></summary>
+<br>
 
+- Sustentação e evolução de sistemas críticos de **processamento bancário**: cheques, cartões, compensação;
+- Sistemas legados de alta criticidade, grandes volumes de dados e ambientes com alta exigência de segurança e disponibilidade.
 
-<p align="center">
-  <i>🤝🏻 Vamos nos conectar!</i>
+</details>
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/gusta-nascimento/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
-    <a href="https://www.instagram.com/gusta.nascimento/" alt="Instagram"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="30" width="30"></a>
-    <a href="mailto:caous.g@gmail.com" alt="E-mail"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>   
-  </p>
+<details>
+<summary><b>🚛 Action Cargo — Desenvolvedor</b> <i>(transformação digital)</i></summary>
+<br>
 
+- Digitalização de processos baseados em papel e planilhas;
+- Intranet, extranet, módulos de RH e financeiro, faturamento, boletos, documentos fiscais e acompanhamento logístico.
 
+</details>
+
+<details>
+<summary><b>🔧 Intelligence for Us — Infraestrutura & Segurança</b> <i>(início de carreira)</i></summary>
+<br>
+
+- Redes, cabeamento estruturado, firewall, servidores e suporte;
+- Base que me deu visão completa de como software, rede e segurança se conectam no ambiente corporativo.
+
+</details>
+
+---
+
+## 🚀 Projetos em destaque
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| 🧾 **Esteira Fiscal / IR** | Validação de dados fiscais em alto volume, -80% de chamados | .NET, Kafka, Redis, K8s, Python, AWS |
+| 💳 **Crédito Consignado** | Modernização com feature flags e fallback entre fornecedores | .NET, APIs, Resiliência |
+| 🤝 **Desenrola Brasil** | Programa federal de renegociação — contexto bancário regulatório | .NET, Integrações |
+| 🎓 **Instituto Barros** | Plataforma web completa: alunos, funcionários e operações | React, .NET, Azure, Clean Arch |
+| 🔧 **Gestão de Oficinas** | OS, peças, contratos, faturamento | React, TS, ASP.NET Core, DDD |
+| 📦 **API de Pedidos** | Importação e processamento com rastreabilidade total | .NET 8, PostgreSQL, OpenTelemetry, Dynatrace |
+| 💬 **Automação WhatsApp** | Atendimento orientado a eventos | Evolution API, n8n, Redis, PostgreSQL |
+| 🤖 **Esteira de Dev com Agentes de IA** | Pipeline onde nenhum código existe sem critério de aceite, e nenhum critério é entregue sem teste | Claude Code, MCP, Markdown PBIs, YAML Registry |
+
+---
+
+## 🛠️ Stack principal
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+
+</div>
+
+<details>
+<summary>📚 <b>Ver stack completa</b></summary>
+<br>
+
+**Backend:** .NET 8/Core/Framework · ASP.NET Core · Spring Boot · Node.js · Entity Framework · Dapper · FluentValidation · JWT · Workers & Background Services
+
+**Frontend:** React · Next.js · Angular · Tailwind CSS · React Query · Vite
+
+**Mobile:** Flutter · React Native · Offline-first · Firebase · TestFlight
+
+**Arquitetura:** Clean Architecture · DDD · Hexagonal · Microsserviços · Event-Driven · CQRS · Saga · Outbox · Circuit Breaker · Idempotent Consumer · C4 Model
+
+**Mensageria:** Kafka · RabbitMQ · SQS/SNS · Redis Pub/Sub · DLQ · Retry · Reprocessamento · Idempotência
+
+**Cloud & Infra:** Azure (App Service, Blob, APIM, DevOps) · AWS (S3, SQS, Lambda, EKS, RDS) · Docker · Kubernetes + HPA · Terraform · CI/CD
+
+**Dados:** SQL Server · PostgreSQL · Oracle · MongoDB · Redis · modelagem, índices, locks e performance
+
+**Qualidade & Observabilidade:** OpenTelemetry · Dynatrace · New Relic · Grafana · SonarQube · testes unitários, integração, carga e mutation testing
+
+**IA & Automação:** Agentes de IA · Claude Code · OpenAI API · Ollama · MCP · n8n · engenharia de prompts · desenvolvimento assistido por IA
+
+</details>
+
+---
+
+## 🏗️ Como eu penso arquitetura
+
+```mermaid
+graph LR
+    A[Problema de Negócio] --> B{Entender antes de codar}
+    B --> C[Arquitetura que considera custo e evolução]
+    C --> D[Sistemas preparados para falhar]
+    D --> E[Observabilidade desde o dia 1]
+    E --> F[Entrega com rastreabilidade]
+    F --> G[Resultado real para o negócio]
+```
+
+- 🎯 Nenhuma ferramenta entra por hype — entra por necessidade;
+- 🧨 Sistemas distribuídos nascem preparados para falhas;
+- 🔭 Observabilidade não é opcional em aplicação crítica;
+- 👥 Liderança técnica é desenvolver pessoas, não só decidir;
+- 📏 Métricas que acompanho: Deployment Frequency, Lead Time, Change Failure Rate, MTTR.
+
+---
+
+## 🪐 Empreendedorismo
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💠 InnovaSfera
+Fundador. Soluções tecnológicas ponta a ponta para negócios reais: ERPs, CRMs, automações, integrações, plataformas administrativas, IA aplicada e transformação digital.
+
+**Clientes:** Instituto Barros · Box299 · Bessa Transportes · TT Productions · Menina Mulher · HortFrut Master · Snill
+
+</td>
+<td width="50%" valign="top">
+
+### 🎬 InnovaStudio
+Co-criador. Comunicação, conteúdo e presença digital — a ponte entre tecnologia, marca e experiência do usuário.
+
+**Visão:** produto não é só código; é posicionamento, conversão e experiência.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤖 IA no meu fluxo de trabalho
+
+Criador de uma **esteira de desenvolvimento orientada por agentes de IA**, com portões de qualidade em cada etapa:
+
+> **Princípio:** nenhuma linha de código deve existir sem um critério de aceite que a justifique — e nenhum critério deve ser considerado entregue sem um teste que o comprove.
+
+`PBIs em Markdown` → `Agentes especializados` → `TDD` → `Review automatizado` → `Architecture Registry em YAML` → `Rastreabilidade total`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Caous&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caous&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff"/>
+
+<img src="https://streak-stats.demolab.com?user=Caous&theme=github-dark-blue&hide_border=true&background=0d1117"/>
+
+<img src="https://raw.githubusercontent.com/Caous/Caous/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Vamos construir algo juntos?
+
+*Uso tecnologia para servir, resolver problemas reais e gerar resultados.*
+
+<a href="https://www.linkedin.com/in/gusta-nascimento/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:caous.g@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer" width="100%"/>
+
+</div>
